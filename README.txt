@@ -1,0 +1,1 @@
+In this project, you can upload a text from any of your favourite actors and it will learn your actor's way of communicating. After that, it will give you back a text similar to what the author would write. I, for example, gave it Coldplay's songs and it created the next big Coldplay's hit!
